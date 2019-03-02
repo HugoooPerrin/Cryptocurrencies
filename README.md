@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-Several attempts to collect cryptocurrency data and apply Markozitz Theory:
+Several attempts to collect cryptocurrency data and apply Markovitz Theory:
 
 ![](https://github.com/HugoooPerrin/Cryptocurrencies/blob/master/image.png)
 
